@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.3.0
         with:
           REPOSITORY: CharlesWLudwig/CharlesWLudwig
           COMMIT_MESSAGE: "My commit message to update badges"
