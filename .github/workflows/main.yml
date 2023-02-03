@@ -1,0 +1,20 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 5am UTC
+    - cron: "0 5 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          REPOSITORY: CharlesWLudwig/CharlesWLudwig
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: charles-ludwig.71eb8aa2
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110x110
+          NUMBER_LAST_BADGES: 48
