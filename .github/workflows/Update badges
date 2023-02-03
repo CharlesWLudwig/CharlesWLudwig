@@ -12,6 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
+          REPOSITORY: CharlesWLudwig/CharlesWLudwig
           COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_USER: charles-ludwig.71eb8aa2
           CREDLY_SORT: RECENT
