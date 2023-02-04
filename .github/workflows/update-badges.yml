@@ -1,10 +1,8 @@
 name: Update badges
 
 on:
-  workflow_dispatch: # run manually
   schedule:
-    # Runs at 1am UTC on Sunday
-    - cron: "0 1 * * 0"
+    - cron: "*/5 * * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -13,4 +11,9 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
-          CREDLY_SORT: POPULAR
+          REPOSITORY: CharlesWLudwig/CharlesWLudwig
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: charles-ludwig.71eb8aa2
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110x110
+          NUMBER_LAST_BADGES: 48
