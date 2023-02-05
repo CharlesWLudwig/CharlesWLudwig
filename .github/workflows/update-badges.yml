@@ -9,10 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.0
+        uses: pemtajo/badge-readme@main
         with:
           REPOSITORY: CharlesWLudwig/CharlesWLudwig
           COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_SORT: RECENT
-          BADGE_SIZE: 110x110
           NUMBER_LAST_BADGES: 48
+
+
