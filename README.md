@@ -1,6 +1,7 @@
 My Badges:
 
 <!--START_SECTION:badges-->
+
 [![(ISC)² Candidate](https://images.credly.com/size/110x110x110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/9b87dd4c-b063-4f46-ab08-0b3d9cb5d7ba "(ISC)² Candidate")
 [![Fundamentals of Waterfall Project Management](https://images.credly.com/size/110x110x110x110/images/4e17c028-2214-4d53-b03b-16d26219f9cf/KickoffWFBadge.png)](http://www.credly.com/badges/807e50b4-2aa6-4740-bf09-c172eaf7e7ed "Fundamentals of Waterfall Project Management")
 [![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110x110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/9d63e940-7011-4fe5-b5e3-bbb21c1898e5 "Fundamentals of Agile Project Management")
