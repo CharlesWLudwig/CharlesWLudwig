@@ -1,6 +1,7 @@
 My Badges:
 
 <!--START_SECTION:badges-->
+[![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/2e7ac66f-e113-4764-b14b-8ab154a08431 "Explorations into Mindfulness")
 [![Process Improvement: Identifying and Eliminating Waste at Work and Home Workshop Badge](https://images.credly.com/size/110x110/images/6ce05aec-b329-4b04-ad01-a9d1fb681ff4/image.png)](http://www.credly.com/badges/edc880c6-8c8f-46a8-8c19-d611204c160d "Process Improvement: Identifying and Eliminating Waste at Work and Home Workshop Badge")
 [![GIAC Certified Incident Handler (GCIH)](https://images.credly.com/size/110x110/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png)](http://www.credly.com/badges/7932954c-65d8-4b1c-926c-eb7dbd0e0781 "GIAC Certified Incident Handler (GCIH)")
 [![GIAC Security Essentials Certification (GSEC)](https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png)](http://www.credly.com/badges/a4de2f58-5546-4ed9-8eaa-79052c2eb430 "GIAC Security Essentials Certification (GSEC)")
