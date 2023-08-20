@@ -1,12 +1,14 @@
 My Badges:
 
 <!--START_SECTION:badges-->
+[![Google/CompTIA dual credential](https://images.credly.com/size/110x110/images/9d6a367b-6e05-4c70-99d6-26046056695f/GoogleCompTIA.png)](http://www.credly.com/badges/e3436fb6-0b0e-40fb-8484-2b943a8b8778 "Google/CompTIA dual credential")
+[![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/128ef9e4-2d5b-47f3-8757-a2efd32d45a6 "CompTIA A+ ce Certification")
 [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/26388c15-aacf-4e62-b4fe-c0770bce3eec "Google Cybersecurity Certificate")
 [![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/2e7ac66f-e113-4764-b14b-8ab154a08431 "Explorations into Mindfulness")
 [![Process Improvement: Identifying and Eliminating Waste at Work and Home Workshop Badge](https://images.credly.com/size/110x110/images/6ce05aec-b329-4b04-ad01-a9d1fb681ff4/image.png)](http://www.credly.com/badges/edc880c6-8c8f-46a8-8c19-d611204c160d "Process Improvement: Identifying and Eliminating Waste at Work and Home Workshop Badge")
 [![GIAC Certified Incident Handler (GCIH)](https://images.credly.com/size/110x110/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png)](http://www.credly.com/badges/7932954c-65d8-4b1c-926c-eb7dbd0e0781 "GIAC Certified Incident Handler (GCIH)")
 [![GIAC Security Essentials Certification (GSEC)](https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png)](http://www.credly.com/badges/a4de2f58-5546-4ed9-8eaa-79052c2eb430 "GIAC Security Essentials Certification (GSEC)")
-[![(ISC)² Candidate](https://images.credly.com/size/110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/9b87dd4c-b063-4f46-ab08-0b3d9cb5d7ba "(ISC)² Candidate")
+[![(ISC)² Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/9b87dd4c-b063-4f46-ab08-0b3d9cb5d7ba "(ISC)² Candidate")
 [![Fundamentals of Predictive Project Management](https://images.credly.com/size/110x110/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png)](http://www.credly.com/badges/807e50b4-2aa6-4740-bf09-c172eaf7e7ed "Fundamentals of Predictive Project Management")
 [![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/9d63e940-7011-4fe5-b5e3-bbb21c1898e5 "Fundamentals of Agile Project Management")
 [![GIAC Advisory Board](https://images.credly.com/size/110x110/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png)](http://www.credly.com/badges/64215a65-32f3-4b3b-bbc6-b9bea28ec885 "GIAC Advisory Board")
