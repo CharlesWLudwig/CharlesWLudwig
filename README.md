@@ -1,7 +1,7 @@
 My Badges:
 
 <!--START_SECTION:badges-->
-[![Google/CompTIA dual credential](https://images.credly.com/size/110x110/images/9d6a367b-6e05-4c70-99d6-26046056695f/GoogleCompTIA.png)](http://www.credly.com/badges/e3436fb6-0b0e-40fb-8484-2b943a8b8778 "Google/CompTIA dual credential")
+[![Google/CompTIA dual credential](https://images.credly.com/size/110x110/images/9d6a367b-6e05-4c70-99d6-26046056695f/GoogleCompTIA.png)](http://www.credly.com/badges/e302a4ab-363e-4115-a01b-e13a69db877c "Google/CompTIA dual credential")
 [![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/128ef9e4-2d5b-47f3-8757-a2efd32d45a6 "CompTIA A+ ce Certification")
 [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/26388c15-aacf-4e62-b4fe-c0770bce3eec "Google Cybersecurity Certificate")
 [![Explorations into Mindfulness](https://images.credly.com/size/110x110/images/6599523a-e811-4775-b037-c4c1417b0b4e/Explorations_into_Mindfulness.png)](http://www.credly.com/badges/2e7ac66f-e113-4764-b14b-8ab154a08431 "Explorations into Mindfulness")
