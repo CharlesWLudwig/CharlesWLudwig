@@ -48,9 +48,6 @@ My Badges:
 <!--END_SECTION:badges-->
 [![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
-[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleswludwig)](https://github.com/charleswludwig/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswludwig&layout=donut)](https://github.com/charleswludwig/github-readme-stats)
-
 <br>
 
 <a href="https://github.com/charleswludwig/github-readme-stats">
