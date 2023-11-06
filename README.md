@@ -47,3 +47,5 @@ My Badges:
 [![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/bf04419b-6826-4814-a40e-02d5d8f5e5f5 "Scrum Foundation Professional Certification - SFPC™")
 <!--END_SECTION:badges-->
 [![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
+
+[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleswludwig)](https://github.com/charleswludwig/github-readme-stats)
