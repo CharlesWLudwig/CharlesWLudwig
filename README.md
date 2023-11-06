@@ -50,7 +50,7 @@ My Badges:
 
 <hr>
 
-<div style="margin: auto; width: 60%; border: 3px solid black; padding: 10px;">
+<div style="margin: auto; width: 100%; border: 3px solid black; padding: 10px;">
     <!--
   <a href="https://github.com/charleswludwig/github-readme-stats">
     <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=charleswludwig" />
@@ -58,6 +58,6 @@ My Badges:
     -->
     
   <a href="https://github.com/charleswludwig">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.5&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
+    <img align="center" height="30%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.5&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
   </a>
 </div>
