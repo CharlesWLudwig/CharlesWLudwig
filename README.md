@@ -58,6 +58,6 @@ My Badges:
     -->
     
   <a href="https://github.com/charleswludwig">
-    <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.5&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.5&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
   </a>
 </div>
