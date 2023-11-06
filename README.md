@@ -49,7 +49,7 @@ My Badges:
 [![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
 <hr>
-    
+
 <div style="margin: auto; width: 60%; border: 3px solid black; padding: 10px;">
     <!--
   <a href="https://github.com/charleswludwig/github-readme-stats">
@@ -57,6 +57,6 @@ My Badges:
   </a>
     -->
   <a href="https://github.com/charleswludwig">
-    <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
