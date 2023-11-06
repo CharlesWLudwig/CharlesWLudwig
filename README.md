@@ -48,18 +48,9 @@ My Badges:
 <!--END_SECTION:badges-->
 [![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
-<br>
-
-<style>
-  center {
-    margin: auto;
-    width: 60%;
-    border: 3px solid black;
-    padding: 10px;
-  }
-</style>
-
-<div class="center">
+<hr>
+    
+<div style="margin: auto; width: 60%; border: 3px solid black; padding: 10px;">
   <a href="https://github.com/charleswludwig/github-readme-stats">
     <img height=200 align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=charleswludwig" />
   </a>
