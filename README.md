@@ -68,4 +68,8 @@ My Badges:
 <a href="https://github.com/charleswludwig/appium_java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
 </a>
+
+<br>
+<hr>
+<br>![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
