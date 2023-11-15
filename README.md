@@ -37,7 +37,7 @@ My Badges:
 <hr>
 <br>
 
-<div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
+<div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding: 10px;">
   
 <a href="https://github.com/charleswludwig">
   <img height=300 width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
