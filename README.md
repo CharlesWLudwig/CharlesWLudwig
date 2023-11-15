@@ -39,7 +39,7 @@ My Badges:
 
 <div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
 <a href="https://github.com/charleswludwig">
-  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
+  <img height=400 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
 </a>
 
 <br>
