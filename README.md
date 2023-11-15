@@ -60,4 +60,11 @@ My Badges:
 <a href="https://github.com/charleswludwig/brython_demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
 </a>
+
+<a href="https://github.com/charleswludwig/DevOps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
+</a>
+<a href="https://github.com/charleswludwig/appium_java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
+</a>
 </div>
