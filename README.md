@@ -39,6 +39,6 @@ My Badges:
   <img height=200 align="center" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
 </a>
 <a href="https://github.com/charleswludwig">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=20&card_width=320&layout=pie" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=20&card_width=320" />
 </a>
 </div>
