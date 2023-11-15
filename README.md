@@ -55,16 +55,16 @@ My Badges:
 <br>
 
 <a href="https://github.com/charleswludwig/map_app">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
 </a>
 <a href="https://github.com/charleswludwig/brython_demo">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
 </a>
 
 <a href="https://github.com/charleswludwig/DevOps">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
 </a>
 <a href="https://github.com/charleswludwig/appium_java">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
 </a>
 </div>
