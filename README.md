@@ -35,18 +35,10 @@ My Badges:
 
 <hr>
 
-<div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
-    
-  <a href="https://leetcode.com/CharlesWLudwig">
-    <img height=200 align="left" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
-  </a>
-
-   <!-- 
-  <a href="https://github.com/charleswludwig/github-readme-stats">
-    <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=charleswludwig" />
-  </a>
-    -->
-  <a href="https://github.com/charleswludwig">
-    <img align="right" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.6&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
-  </a>
+<a href="https://leetcode.com/CharlesWLudwig">
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
+</a>
+<a href="https://github.com/charleswludwig">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=20&card_width=320&layout=pie" />
+</a>
 </div>
