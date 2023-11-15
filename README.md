@@ -40,7 +40,11 @@ My Badges:
 <div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
   
 <a href="https://github.com/charleswludwig">
-  <img height=400 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
+  <img height=300 width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
+</a>
+
+<a href="https://github.com/charleswludwig">
+  <img height=300 width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charleswludwig&theme=default&utcOffset=-5" />
 </a>
 
 <br>
@@ -76,7 +80,6 @@ My Badges:
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charleswludwig&theme=default) 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charleswludwig&theme=default&utcOffset=8) 
 </div>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
