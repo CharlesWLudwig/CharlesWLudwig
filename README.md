@@ -38,6 +38,7 @@ My Badges:
 <br>
 
 <div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
+  
 <a href="https://github.com/charleswludwig">
   <img height=400 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
 </a>
@@ -68,6 +69,16 @@ My Badges:
 <a href="https://github.com/charleswludwig/appium_java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
 </a>
+
+<br>
+<hr>
+<br>
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charleswludwig&theme=default) 
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charleswludwig&theme=default&utcOffset=8) 
 </div>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+ 
