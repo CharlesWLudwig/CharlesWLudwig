@@ -35,7 +35,7 @@ My Badges:
 
 <hr>
 
-<div>
+<div style="justify-content: center; margin: auto; width: 50%; border: 3px solid black; padding: 10px;">
 <a href="https://leetcode.com/CharlesWLudwig">
   <img align="center" width="50%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
 </a>
