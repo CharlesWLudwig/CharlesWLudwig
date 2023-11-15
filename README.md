@@ -40,13 +40,12 @@ My Badges:
   <a href="https://leetcode.com/CharlesWLudwig">
     <img height=200 align="center" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
   </a>
-    
-    <!--
+
+   <!-- 
   <a href="https://github.com/charleswludwig/github-readme-stats">
     <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=charleswludwig" />
   </a>
     -->
-    
   <a href="https://github.com/charleswludwig">
     <img align="center" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&size_weight=0.6&count_weight=0.5&layout=pie&langs_count=20&card_width=320" />
   </a>
