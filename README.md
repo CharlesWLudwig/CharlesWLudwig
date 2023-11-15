@@ -37,9 +37,9 @@ My Badges:
 
 <div>
 <a href="https://leetcode.com/CharlesWLudwig">
-  <img align="left" width="48%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
+  <img align="center" width="50%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
 </a>
 <a href="https://github.com/charleswludwig">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=20&card_width=320" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&layout=compact&langs_count=20&card_width=320" />
 </a>
 </div>
