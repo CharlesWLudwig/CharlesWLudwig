@@ -1,4 +1,4 @@
-My Badges:
+My Badges: [![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
 <!--START_SECTION:badges-->
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/65b8eac2-d64b-40b5-86da-ad620da305a4 "CCNA: Switching, Routing, and Wireless Essentials")
@@ -31,7 +31,6 @@ My Badges:
 [![IBM Cybersecurity Analyst Professional Certificate](https://images.credly.com/size/110x110/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png)](http://www.credly.com/badges/8a3de383-34ae-4b93-8658-ee29cc2c1ede "IBM Cybersecurity Analyst Professional Certificate")
 [![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/c22e441e-f40d-472a-8709-de7618930f0e "Google IT Support Certificate")
 <!--END_SECTION:badges-->
-[![.github/workflows/update-badges.yml](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg?event=schedule)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
 <br>
 <hr>
