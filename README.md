@@ -1,7 +1,7 @@
 <div style="display: flex, flex: wrap, justify-content: space-between">
   <p>My Badges: </p>
-  [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 </div>
+[![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
 <!--START_SECTION:badges-->
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/65b8eac2-d64b-40b5-86da-ad620da305a4 "CCNA: Switching, Routing, and Wireless Essentials")
