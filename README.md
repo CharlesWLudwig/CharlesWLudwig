@@ -41,7 +41,7 @@
 <div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
   
 <a href="https://github.com/charleswludwig">
-  <img height=300 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320" />
+  <img height=350 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleswludwig&langs_count=20&layout=pie&card_width=320&size_weight=0.5&count_weight=0.5" />
 </a>
 
 <a href="https://github.com/charleswludwig">
