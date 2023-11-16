@@ -1,9 +1,11 @@
 <div style="display: flex, flex: wrap, justify-content: space-between">
-  <p>My Badges: </p>
+  <div>
+    <p>My Badges: </p>
+  </div>
+  <div>
+    [![Update badges](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
+  </div>
 </div>
-
-[![Update badges](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
-
 <!--START_SECTION:badges-->
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/65b8eac2-d64b-40b5-86da-ad620da305a4 "CCNA: Switching, Routing, and Wireless Essentials")
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/2ee94aab-e30b-4c06-81a3-e7d831ff8169 "CCNA: Enterprise Networking, Security, and Automation")
