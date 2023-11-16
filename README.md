@@ -1,8 +1,6 @@
 <div style="display: flex, flex: wrap, justify-content: space-between">
   <p>My Badges: </p>
-  <p>
-    [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
-  </p>
+  [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 </div>
 
 <!--START_SECTION:badges-->
