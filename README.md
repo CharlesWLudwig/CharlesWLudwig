@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://github.com/charleswludwig">
-  <img height=300 width="50%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charleswludwig&theme=default&utcOffset=-5" />
+  <img height=500 width="50%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charleswludwig&theme=default&utcOffset=-5" />
 </a>
 
 <br>
