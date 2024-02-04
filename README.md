@@ -3,8 +3,8 @@
 <h4>My Badges: </h4>
 
 <!--START_SECTION:badges-->
-[![Hacking Deep Dive](https://images.credly.com/size/110x110/images/d43f9138-4f0b-4901-be9d-c749e60a6981/29f72aa3-c74c-4d60-8efa-887a01c3b0c0.png)](http://www.credly.com/badges/5c204e05-d5d1-4c7a-af02-b0e0eecdb129 "Hacking Deep Dive")
-[![Data Engineering Toolkit](https://images.credly.com/size/110x110/images/4d44c173-7a8c-47d0-8e4e-b1c3f7c88ec4/67e6aa27-2160-4888-94df-37df8dffe1de.png)](http://www.credly.com/badges/ee691699-2493-4b76-8183-a06fb69af6c0 "Data Engineering Toolkit")
+[![Hacking Deep Dive](https://images.credly.com/size/110x110/images/33e6a3f3-2e6c-4307-957f-b643af71cb93/29f72aa3-c74c-4d60-8efa-887a01c3b0c0.png)](http://www.credly.com/badges/5c204e05-d5d1-4c7a-af02-b0e0eecdb129 "Hacking Deep Dive")
+[![Data Engineering Toolkit](https://images.credly.com/size/110x110/images/0658ce07-c7b9-4c6d-a51d-51f11b8e4a4d/67e6aa27-2160-4888-94df-37df8dffe1de.png)](http://www.credly.com/badges/ee691699-2493-4b76-8183-a06fb69af6c0 "Data Engineering Toolkit")
 [![Cybersecurity Workforce Program Badge](https://images.credly.com/size/110x110/images/fda96dec-b5f4-4f45-8bd9-b7240b39f8bb/image.png)](http://www.credly.com/badges/87bc388f-7ff0-4e65-bed9-4a9bec1cf216 "Cybersecurity Workforce Program Badge")
 [![Cybersecurity Technical Training toward Cybersecurity Certification for Florida State and Local Government Employees](https://images.credly.com/size/110x110/images/0ee2b263-e38e-49f2-ba7e-857aa19bb7b0/image.png)](http://www.credly.com/badges/19bc70f9-19b6-4a27-a74d-d0eb216c3bf3 "Cybersecurity Technical Training toward Cybersecurity Certification for Florida State and Local Government Employees")
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/65b8eac2-d64b-40b5-86da-ad620da305a4 "CCNA: Switching, Routing, and Wireless Essentials")
