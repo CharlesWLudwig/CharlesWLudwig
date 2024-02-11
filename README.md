@@ -3,6 +3,8 @@
 <h4>My Badges: </h4>
 
 <!--START_SECTION:badges-->
+[![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](http://www.credly.com/badges/57a7190d-051a-4f44-859c-ec25bd8cf6d3 "CompTIA IT Operations Specialist – CIOS Stackable Certification")
+[![CompTIA Network+ ce Certification](https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)](http://www.credly.com/badges/6362f222-fc7f-40a8-9a3b-8b7bd9500453 "CompTIA Network+ ce Certification")
 [![Hacking Deep Dive](https://images.credly.com/size/110x110/images/33e6a3f3-2e6c-4307-957f-b643af71cb93/29f72aa3-c74c-4d60-8efa-887a01c3b0c0.png)](http://www.credly.com/badges/5c204e05-d5d1-4c7a-af02-b0e0eecdb129 "Hacking Deep Dive")
 [![Data Engineering Toolkit](https://images.credly.com/size/110x110/images/0658ce07-c7b9-4c6d-a51d-51f11b8e4a4d/67e6aa27-2160-4888-94df-37df8dffe1de.png)](http://www.credly.com/badges/ee691699-2493-4b76-8183-a06fb69af6c0 "Data Engineering Toolkit")
 [![Cybersecurity Workforce Program Badge](https://images.credly.com/size/110x110/images/fda96dec-b5f4-4f45-8bd9-b7240b39f8bb/image.png)](http://www.credly.com/badges/87bc388f-7ff0-4e65-bed9-4a9bec1cf216 "Cybersecurity Workforce Program Badge")
@@ -11,7 +13,7 @@
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/2ee94aab-e30b-4c06-81a3-e7d831ff8169 "CCNA: Enterprise Networking, Security, and Automation")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/3048537b-205b-4efd-9634-ca8ed62ca5f6 "CCNA: Introduction to Networks")
 [![Google/CompTIA dual credential](https://images.credly.com/size/110x110/images/9d6a367b-6e05-4c70-99d6-26046056695f/GoogleCompTIA.png)](http://www.credly.com/badges/e302a4ab-363e-4115-a01b-e13a69db877c "Google/CompTIA dual credential")
-[![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/128ef9e4-2d5b-47f3-8757-a2efd32d45a6 "CompTIA A+ ce Certification")
+[![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/1d65bb96-cec8-4e72-8bb5-574dac30dbc5 "CompTIA A+ ce Certification")
 [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/26388c15-aacf-4e62-b4fe-c0770bce3eec "Google Cybersecurity Certificate")
 [![GIAC Certified Incident Handler (GCIH)](https://images.credly.com/size/110x110/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png)](http://www.credly.com/badges/7932954c-65d8-4b1c-926c-eb7dbd0e0781 "GIAC Certified Incident Handler (GCIH)")
 [![GIAC Security Essentials Certification (GSEC)](https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png)](http://www.credly.com/badges/a4de2f58-5546-4ed9-8eaa-79052c2eb430 "GIAC Security Essentials Certification (GSEC)")
