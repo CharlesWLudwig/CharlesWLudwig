@@ -60,7 +60,7 @@
 <br>
 <hr>
 <br>
--->
+
 <a href="https://github.com/charleswludwig/map_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
 </a>
@@ -78,7 +78,7 @@
 <br>
 <hr>
 <br>
-
+-->
 <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charleswludwig&theme=default" />
 
 </div>
