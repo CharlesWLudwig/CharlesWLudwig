@@ -46,9 +46,14 @@
 
 <div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
   
-<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="max-width: 50%; display: inline" />
+<a href="https://www.academy.hackthebox.com">
+  <img width="50%" align="center" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box Profile"/>
+</a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="max-width: 50%; display: inline" />
+<a href="https://www.tryhackme.com">
+  <img width="50%" align="center" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe Profile"/>
+</a>
+
 </div>
 <!--
 <a href="https://leetcode.com/CharlesWLudwig">
@@ -62,16 +67,16 @@
 <div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
   
 <a href="https://github.com/charleswludwig/map_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
 </a>
 <a href="https://github.com/charleswludwig/brython_demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
 </a>
 <a href="https://github.com/charleswludwig/DevOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
 </a>
 <a href="https://github.com/charleswludwig/appium_java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
 </a>
 
 </div>
