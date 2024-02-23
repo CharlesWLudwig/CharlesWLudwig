@@ -51,11 +51,12 @@
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="max-width: 50%; display: inline" />
 </div>
 
-<!--
+<br>
+
 <a href="https://leetcode.com/CharlesWLudwig">
   <img height=200 align="center" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
 </a>
--->
+
 <br>
 <hr>
 <br>
