@@ -48,7 +48,7 @@
   
 <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="max-width: 50%; display: inline" />
 
-<img src="https://tryhackme.com/badge/1277994" alt="TryHackMe" style="max-width: 50%; display: inline" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="max-width: 50%; display: inline" />
 </div>
 <!--
 <a href="https://leetcode.com/CharlesWLudwig">
