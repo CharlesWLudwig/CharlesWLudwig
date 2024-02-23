@@ -46,10 +46,9 @@
 
 <div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
   
-<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="max-width: 256px; display: inline" />
+<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="max-width: 50%; display: inline" />
 
-<script src="https://tryhackme.com/badge/1277994"></script>
-
+<img src="https://tryhackme.com/badge/1277994" alt="TryHackMe" style="max-width: 50%; display: inline" />
 </div>
 <!--
 <a href="https://leetcode.com/CharlesWLudwig">
