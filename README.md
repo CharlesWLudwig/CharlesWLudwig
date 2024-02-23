@@ -52,6 +52,8 @@
 <hr>
 <br>
 
+<div style="justify-content: center; margin: auto; width: 100%">
+  
 <a href="https://github.com/charleswludwig/map_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
 </a>
@@ -64,6 +66,8 @@
 <a href="https://github.com/charleswludwig/appium_java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
 </a>
+
+</div>
 
 <br>
 <hr>
