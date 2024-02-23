@@ -43,6 +43,14 @@
 <br>
 <hr>
 <br>
+
+<div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
+  
+<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="max-width: 256px; display: inline" />
+
+<script src="https://tryhackme.com/badge/1277994"></script>
+
+</div>
 <!--
 <a href="https://leetcode.com/CharlesWLudwig">
   <img height=200 align="center" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
@@ -52,7 +60,7 @@
 <hr>
 <br>
 
-<div style="justify-content: center; margin: auto; width: 100%">
+<div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
   
 <a href="https://github.com/charleswludwig/map_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
