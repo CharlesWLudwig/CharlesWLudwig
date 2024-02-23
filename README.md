@@ -44,11 +44,11 @@
 <hr>
 <br>
 
-<div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black;">
-  
-<img align="center" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="width: 50%; display: inline" />
+<div style="text-align: center">
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="width: 50%; display: inline" />
+<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="display: inline-block; margin-left: auto; margin-right: auto; height: 30px;"/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="display: inline-block; margin-left: auto; margin-right: auto; height: 30px;"/>
 </div>
 
 <br>
