@@ -45,11 +45,11 @@
 <br>
 
 <div style="display: inline">
-  <div style="margin-left: 0; width: 50%">
+  <div style="margin-left: 0; width: 40%">
     <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="height: 80px"/>
   </div>
 
-  <div style="margin-right: 0; width: 50%">
+  <div style="margin-right: 0; width: 40%">
     <img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="height: 80px"/>
   </div>
 </div>
