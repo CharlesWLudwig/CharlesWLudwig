@@ -44,9 +44,11 @@
 <hr>
 <br>
 
-  <img height=150 width="10%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px"/>
+<div style="justify-content: center; display: flex">
+  <img width="40%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding-left: 50px"/>
 
-  <img height=150 width="100%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px"/>
+  <img width="40%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding-right: 50px"/>
+</div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
   <img height=200 align="center" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" style="padding: 50px"/>
