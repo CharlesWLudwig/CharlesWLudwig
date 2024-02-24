@@ -45,9 +45,9 @@
 <br>
 
 <div style="justify-content: center; display: flex">
-  <img width="40%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px; float: left"/>
+  <img width="50%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px; float: left"/>
 
-  <img width="40%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; float: right"/>
+  <img width="50%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; float: right"/>
 </div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
