@@ -46,8 +46,7 @@
 
 <div style="justify-content: center; display: flex">
   <img width="40%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px"/>
-  <div style="width: 100px; height: 20px">
-  </div>
+  
   <img width="40%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px"/>
 </div>
 
