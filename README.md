@@ -44,14 +44,14 @@
 <hr>
 <br>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: inline">
+  <div style="margin-left: 0; width: 50%">
+    <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="height: 80px"/>
+  </div>
 
-<div style="margin-left: 0; width: 50%">
-<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px; height: 80px"/>
-</div>
-
-<div style="margin-right: 0; width: 50%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; height: 80px"/>
+  <div style="margin-right: 0; width: 50%">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="height: 80px"/>
+  </div>
 </div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
