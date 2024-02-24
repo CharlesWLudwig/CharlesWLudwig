@@ -46,9 +46,9 @@
 
 <div style="text-align: center; display: flex; justify-content: center">
 
-<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="display: inline-block; margin-left: auto; margin-right: auto; height: 100px;"/>
+<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="display: inline-block; margin-left: auto; margin-right: auto; width: 50%"/>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="display: inline-block; margin-left: auto; margin-right: auto; height: 100px;"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="display: inline-block; margin-left: auto; margin-right: auto; width: 50%"/>
 </di>
 
 <br>
