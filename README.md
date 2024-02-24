@@ -44,12 +44,12 @@
 <hr>
 <br>
 
-<div style="float: left; clear: none">
+<div style="float: left; clear: none; width: 100%">
     <div>
-      <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="height: 80px"/>
+      <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="width: 50%"/>
     </div>
     <div>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="height: 80px"/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="width: 50%"/>
      </div>
 </div>
 
