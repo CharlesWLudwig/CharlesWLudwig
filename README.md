@@ -46,9 +46,12 @@
 
 <div style="display: flex; justify-content: center;">
 
-<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="margin-left: 0; padding: 50px; height: 80px"/>
+<div style="margin-left: 0; width: 50%">
+<img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px; height: 80px"/>
+</div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="margin-right: 0; padding: 50px; height: 80px"/>
+<div style="margin-right: 0; width: 50%">
+<img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; height: 80px"/>
 </div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
