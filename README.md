@@ -44,13 +44,13 @@
 <hr>
 <br>
 
-<div style="justify-content: center; display: flex; width: 100%">
+<div style="display: flex; flex-direction: row;">
     <div>
       <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="width: 40%"/>
     </div>
     <div>
       <img src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="width: 40%"/>
-     </div>
+    </div>
 </div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
