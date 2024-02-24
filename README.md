@@ -52,6 +52,7 @@
 </di>
 
 <br>
+<p>
 
 <a href="https://leetcode.com/CharlesWLudwig">
   <img height=200 align="center" width="100%" src="https://leetcard.jacoblin.cool/CharlesWLudwig?theme=light&font=Mina" />
