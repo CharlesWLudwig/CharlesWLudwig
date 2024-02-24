@@ -44,7 +44,7 @@
 <hr>
 <br>
 
-<div style="float: left; clear: none; width: 100%">
+<div style="justify-content: center; display: flex; width: 100%">
     <div>
       <img src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="width: 40%"/>
     </div>
