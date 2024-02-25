@@ -45,9 +45,15 @@
 <br>
 
 <div style="justify-content: center; display: flex">
+  
+<a href="https://academy.hackthebox.com/">
   <img width="45%" src="https://www.hackthebox.com/badge/image/1847679" alt="Hack The Box" style="padding: 50px; float: left"/>
+</a>
 
+<a href="https://tryhackme.com/p/kickbackworrying">
   <img width="45%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; float: right"/>
+</a>
+
 </div>
 
 <a href="https://leetcode.com/CharlesWLudwig">
