@@ -65,25 +65,24 @@
 <br>
 
 <div style="justify-content: center; margin: auto; width: 100%; border: 3px solid black; padding-left: 20px;">
-  
-<a href="https://github.com/charleswludwig/map_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
-</a>
-<a href="https://github.com/charleswludwig/brython_demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
-</a>
-<a href="https://github.com/charleswludwig/DevOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
-</a>
-<a href="https://github.com/charleswludwig/appium_java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
-</a>
-<a href="https://github.com/CharlesWLudwig/charleswludwig-24-graph-bootcamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=charleswludwig-24-graph-bootcamp" />
-</a>
-<a href="https://github.com/CharlesWLudwig/QuantumComputingCapstoneProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=QuantumComputingCapstoneProject" />
-</a>
+  <a href="https://github.com/charleswludwig/map_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=map_app" />
+  </a>
+  <a href="https://github.com/charleswludwig/brython_demo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=brython_demo" />
+  </a>
+  <a href="https://github.com/charleswludwig/DevOps">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=DevOps" />
+  </a>
+  <a href="https://github.com/charleswludwig/appium_java">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=appium_java" />
+  </a>
+  <a href="https://github.com/CharlesWLudwig/charleswludwig-24-graph-bootcamp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=charleswludwig-24-graph-bootcamp" />
+  </a>
+  <a href="https://github.com/CharlesWLudwig/QuantumComputingCapstoneProject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=QuantumComputingCapstoneProject" />
+  </a>
 </div>
 
 <br>
