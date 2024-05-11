@@ -1,6 +1,6 @@
 [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
-<h4>My Badges: </h4>
+<h4>My Badges:</h4>
 
 <!--START_SECTION:badges-->
 [![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](http://www.credly.com/badges/57a7190d-051a-4f44-859c-ec25bd8cf6d3 "CompTIA IT Operations Specialist – CIOS Stackable Certification")
