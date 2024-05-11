@@ -80,6 +80,9 @@
   <a href="https://github.com/CharlesWLudwig/charleswludwig-24-graph-bootcamp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=charleswludwig-24-graph-bootcamp" />
   </a>
+  <a href="https://github.com/CharlesWLudwig/OSIRIS_RecruitCTF_Code">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charleswludwig&repo=OSIRIS_RecruitCTF_Code" />
+  </a>
 </div>
 
 <br>
