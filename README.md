@@ -3,8 +3,8 @@
 <h4>My Badges:</h4>
 
 <!--START_SECTION:badges-->
-[![CompTIA Cloud Admin Professional – CCAP Stackable Certification](https://images.credly.com/size/110x110/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png)](http://www.credly.com/badges/2e1721fe-7165-4046-8d6d-16b6dce3abf3 "CompTIA Cloud Admin Professional – CCAP Stackable Certification")
-[![CompTIA Cloud+ ce Certification](https://images.credly.com/size/110x110/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png)](http://www.credly.com/badges/aff07a13-985f-4641-ac7c-6572bc8464c4 "CompTIA Cloud+ ce Certification")
+[![CompTIA Cloud Admin Professional – CCAP Stackable Certification](https://images.credly.com/size/110x110/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png)](http://www.credly.com/badges/44d4118d-792f-4f9d-be1c-eb796ec74ec2 "CompTIA Cloud Admin Professional – CCAP Stackable Certification")
+[![CompTIA Cloud+ ce Certification](https://images.credly.com/size/110x110/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png)](http://www.credly.com/badges/0cfb2ca6-d9a5-463e-9618-ffce7280a2ea "CompTIA Cloud+ ce Certification")
 [![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](http://www.credly.com/badges/98abdddb-1106-4f5a-a52c-84f3a3f93dd2 "CompTIA IT Operations Specialist – CIOS Stackable Certification")
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)](http://www.credly.com/badges/37c5af98-699b-4c55-b831-a75dd9dd5082 "CompTIA Network+ ce Certification")
 [![Ethical Hacking Deep Dive](https://images.credly.com/size/110x110/images/44ed4d96-44d6-4ecf-a2be-600dfb5f562b/1f7f8109-c504-4a37-a327-b2ca8e9c6246.png)](http://www.credly.com/badges/5c204e05-d5d1-4c7a-af02-b0e0eecdb129 "Ethical Hacking Deep Dive")
