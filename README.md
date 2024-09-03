@@ -1,6 +1,6 @@
 [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
-<h4>My Badges:</h4>
+<h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
 [![Cybersecurity Security Bundle](https://images.credly.com/size/110x110/images/59b8e182-bbf6-470e-b391-938e629f2808/image.png)](http://www.credly.com/badges/c1528f3a-e72f-4e57-bc84-b22f10f862b6 "Cybersecurity Security Bundle")
