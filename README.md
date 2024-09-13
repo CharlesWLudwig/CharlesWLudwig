@@ -3,15 +3,6 @@
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
-[![Cybersecurity Security Bundle](https://images.credly.com/size/110x110/images/59b8e182-bbf6-470e-b391-938e629f2808/image.png)](http://www.credly.com/badges/c1528f3a-e72f-4e57-bc84-b22f10f862b6 "Cybersecurity Security Bundle")
-[![Cybersecurity Network Bundle](https://images.credly.com/size/110x110/images/de092c26-a2d3-4a90-8c8f-25159da703f0/image.png)](http://www.credly.com/badges/8ad23912-ac37-4046-8a27-d926f15cb26e "Cybersecurity Network Bundle")
-[![Cybersecurity IOT Bundle](https://images.credly.com/size/110x110/images/036c1cdb-94b7-477d-9976-3c92a14744d7/image.png)](http://www.credly.com/badges/4b303c70-cc73-46bf-9c53-f3f4bbf0a54a "Cybersecurity IOT Bundle")
-[![Cybersecurity Foundational Bundle](https://images.credly.com/size/110x110/images/08156044-ad7b-47a0-932e-cff2345444a8/image.png)](http://www.credly.com/badges/fb9f3ed0-3eac-4777-84f6-4e10e424b7d1 "Cybersecurity Foundational Bundle")
-[![Cybersecurity Database Bundle](https://images.credly.com/size/110x110/images/287d1c31-77b6-4bdc-a290-4b0020f8c699/image.png)](http://www.credly.com/badges/25663a9b-13a7-4441-b977-1eb52cc2f3e9 "Cybersecurity Database Bundle")
-[![Cybersecurity Cloud Bundle](https://images.credly.com/size/110x110/images/9fa7a7f7-5b01-417b-a699-bbbcf8c38d66/image.png)](http://www.credly.com/badges/f3be714a-8e77-4c83-9f2f-1e14c1459c7b "Cybersecurity Cloud Bundle")
-[![Cybersecurity Cryptography Bundle](https://images.credly.com/size/110x110/images/60688a6e-e3d0-447f-9676-6f8c195e938a/image.png)](http://www.credly.com/badges/65aac7ad-aaef-4b52-934d-90c97c8ac307 "Cybersecurity Cryptography Bundle")
-[![Cybersecurity Blockchain Bundle](https://images.credly.com/size/110x110/images/106d0ea9-a914-4a47-8650-02cdb77f9121/image.png)](http://www.credly.com/badges/7e78fd02-3ec6-418f-8564-6132fc33188e "Cybersecurity Blockchain Bundle")
-[![Cybersecurity A.I. Bundle](https://images.credly.com/size/110x110/images/5cfe4149-dc5e-475a-9932-00574a68368a/image.png)](http://www.credly.com/badges/6d855c91-e557-4f45-8f0e-807e11319ad8 "Cybersecurity A.I. Bundle")
 [![CompTIA Cloud Admin Professional – CCAP Stackable Certification](https://images.credly.com/size/110x110/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png)](http://www.credly.com/badges/44d4118d-792f-4f9d-be1c-eb796ec74ec2 "CompTIA Cloud Admin Professional – CCAP Stackable Certification")
 [![CompTIA Cloud+ ce Certification](https://images.credly.com/size/110x110/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png)](http://www.credly.com/badges/0cfb2ca6-d9a5-463e-9618-ffce7280a2ea "CompTIA Cloud+ ce Certification")
 [![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](http://www.credly.com/badges/98abdddb-1106-4f5a-a52c-84f3a3f93dd2 "CompTIA IT Operations Specialist – CIOS Stackable Certification")
