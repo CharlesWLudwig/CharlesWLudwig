@@ -1,5 +1,6 @@
 [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
- 
+
+ [![Run Cron Jobs](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml/badge.svg)](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml)
 
 <h4>Badges:</h4>
 
