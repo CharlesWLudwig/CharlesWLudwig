@@ -1,5 +1,7 @@
 [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
 
+[![GitHub Site Updates](https://github.com/CharlesWLudwig/flask-civil-service-exams/actions/workflows/action.yml/badge.svg)](https://github.com/CharlesWLudwig/flask-civil-service-exams/actions/workflows/action.yml)
+
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
