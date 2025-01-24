@@ -45,7 +45,6 @@
 <!--END_SECTION:badges-->
 
 <br>
-![Certified Ethical Hacker -CEHv12](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)
 
 <hr>
 <br>
