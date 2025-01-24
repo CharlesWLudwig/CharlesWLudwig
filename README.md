@@ -45,7 +45,7 @@
 <!--END_SECTION:badges-->
 
 <br>
-[![Certified Ethical Hacker CEHv12](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Y2lUmTcSShvLRCVYyVjtQs6QxHVfYuXU2SKR2RdkA30= "Certified Ethical Hacker - CEHv12")
+![Certified Ethical Hacker -CEHv12](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)
 
 <hr>
 <br>
