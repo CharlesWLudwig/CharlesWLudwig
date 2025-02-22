@@ -5,6 +5,9 @@
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
+[![CompTIA Secure Cloud Professional – CSCP Stackable Certification](https://images.credly.com/size/110x110/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png)](http://www.credly.com/badges/3f6ee009-4b49-4b89-973f-2364cacb4eb8 "CompTIA Secure Cloud Professional – CSCP Stackable Certification")
+[![CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://images.credly.com/size/110x110/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png)](http://www.credly.com/badges/d932d232-dbbe-47c1-8dd4-e378c5eaafa6 "CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification")
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/943601b9-4c6f-42a4-a834-6f3202f570f9 "CompTIA Security+ ce Certification")
 [![CompTIA Cloud Admin Professional – CCAP Stackable Certification](https://images.credly.com/size/110x110/images/18218ce6-e7d4-4479-9500-b7499645b763/CompTIA_CCAP.png)](http://www.credly.com/badges/44d4118d-792f-4f9d-be1c-eb796ec74ec2 "CompTIA Cloud Admin Professional – CCAP Stackable Certification")
 [![CompTIA Cloud+ ce Certification](https://images.credly.com/size/110x110/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png)](http://www.credly.com/badges/f8fc24e5-6e0a-4daf-90f1-6929df37c9cb "CompTIA Cloud+ ce Certification")
 [![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/110x110/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](http://www.credly.com/badges/98abdddb-1106-4f5a-a52c-84f3a3f93dd2 "CompTIA IT Operations Specialist – CIOS Stackable Certification")
