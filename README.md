@@ -63,8 +63,8 @@
   <img width="45%" src="https://tryhackme-badges.s3.amazonaws.com/kickbackworrying.png" alt="TryHackMe" style="padding: 50px; float: right"/>
 </a>
 
-<a href="https://tryhackme.com/p/redbort">
-  <img width="45%" src="https://tryhackme-badges.s3.amazonaws.com/redbort.png" alt="TryHackMe" style="padding: 50px; float: right"/>
+<a href="https://tryhackme.com/p/RedBort">
+  <img width="45%" src="https://tryhackme-badges.s3.amazonaws.com/RedBort.png" alt="TryHackMe" style="padding: 50px; float: right"/>
 </a>
 
 </div>
