@@ -5,6 +5,7 @@
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
+[![Security Analyst Level 1 (SAL1)](https://images.credly.com/size/110x110/images/fc0df734-6716-45ba-8563-9fd0eba18373/blob)](http://www.credly.com/badges/f68fcba7-2e76-4ecf-906c-2fbc766dedd8 "Security Analyst Level 1 (SAL1)")
 [![Google Cybersecurity Certificate & CompTIA Security+ dual credential](https://images.credly.com/size/110x110/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png)](http://www.credly.com/badges/b19a1a5c-6bb8-4dc6-bcaa-c3d0bbea6bd4 "Google Cybersecurity Certificate & CompTIA Security+ dual credential")
 [![CompTIA Secure Cloud Professional – CSCP Stackable Certification](https://images.credly.com/size/110x110/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png)](http://www.credly.com/badges/3f6ee009-4b49-4b89-973f-2364cacb4eb8 "CompTIA Secure Cloud Professional – CSCP Stackable Certification")
 [![CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://images.credly.com/size/110x110/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png)](http://www.credly.com/badges/d932d232-dbbe-47c1-8dd4-e378c5eaafa6 "CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification")
