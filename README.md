@@ -1,8 +1,4 @@
-[![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml)
-
-[![Website Update](https://api.netlify.com/api/v1/badges/ca104eb8-4156-4a6e-831c-a1074cc96f9e/deploy-status)](https://app.netlify.com/projects/charleswludwig/deploys)
-
- [![Run Cron Jobs](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml/badge.svg)](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml)
+[![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml) | [![Website Update](https://api.netlify.com/api/v1/badges/ca104eb8-4156-4a6e-831c-a1074cc96f9e/deploy-status)](https://app.netlify.com/projects/charleswludwig/deploys) | [![Run Cron Jobs](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml/badge.svg)](https://github.com/CharlesWLudwig/cron-job/actions/workflows/actions.yml)
 
 <h4>Badges:</h4>
 
