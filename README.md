@@ -3,6 +3,7 @@
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/9836eb5a-d594-4756-991f-970ba8fcc970" title="McKinsey.org Forward Program"><img src="https://images.credly.com/size/80x80/images/bad47198-deb5-48db-bbc3-85adb64db125/blob" alt="McKinsey.org Forward Program" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/8f475bdf-646d-4de0-a63c-17edc42fd99e" title="Disciplined Agile Essentials"><img src="https://images.credly.com/size/80x80/images/e1e4f031-04ed-4b8d-9d1e-4fc1533bbb95/blob" alt="Disciplined Agile Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f68fcba7-2e76-4ecf-906c-2fbc766dedd8" title="Security Analyst Level 1 (SAL1)"><img src="https://images.credly.com/size/80x80/images/fc0df734-6716-45ba-8563-9fd0eba18373/blob" alt="Security Analyst Level 1 (SAL1)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3f6ee009-4b49-4b89-973f-2364cacb4eb8" title="CompTIA Secure Cloud Professional – CSCP Stackable Certification"><img src="https://images.credly.com/size/80x80/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png" alt="CompTIA Secure Cloud Professional – CSCP Stackable Certification" width="80" height="80"></a>
