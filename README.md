@@ -1,5 +1,7 @@
 [![Update README](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml/badge.svg)](https://github.com/CharlesWLudwig/CharlesWLudwig/actions/workflows/update-badges.yml) | [![Website Update](https://api.netlify.com/api/v1/badges/ca104eb8-4156-4a6e-831c-a1074cc96f9e/deploy-status)](https://app.netlify.com/projects/charleswludwig/deploys) | [![Running like Tom Cruise since '82](https://github.com/CharlesWLudwig/cron-job/actions/workflows/action.yml/badge.svg)](https://github.com/CharlesWLudwig/cron-job/actions/workflows/action.yml) | [![I need food, don't judge me!](https://github.com/CharlesWLudwig/tgtg-stores/actions/workflows/action.yaml/badge.svg)](https://github.com/CharlesWLudwig/tgtg-stores/actions/workflows/action.yaml) | [![Job Walking](https://github.com/CharlesWLudwig/cron-job/actions/workflows/Jobs.yml/badge.svg)](https://github.com/CharlesWLudwig/cron-job/actions/workflows/Jobs.yml)
 
+<a href src="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charleswludwig">Follow me on LinkedIn!</a>
+
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
