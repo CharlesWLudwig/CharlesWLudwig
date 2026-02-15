@@ -2,8 +2,6 @@
 
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charleswludwig">Follow me on LinkedIn!</a>
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fny-gov-jobs%2Evercel%2Eapp%2F&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
-
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
