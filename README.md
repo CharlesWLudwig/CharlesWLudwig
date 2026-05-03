@@ -5,7 +5,7 @@
 <h4>Badges:</h4>
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/users/CharlesWLudwig/badges" title="SANS Foundations Alumni"><img src="https://images.credly.com/size/80x80/images/7f5bcc1c-ba18-437b-a10d-b016ad6d5a3d/converted20250709-28-ouz2e0.png" alt="SANS Foundations Alumni" width="80" height="80"></a>
+[![SANS Foundations Alumni](https://images.credly.com/size/80x80/images/7f5bcc1c-ba18-437b-a10d-b016ad6d5a3d/converted20250709-28-ouz2e0.png)](https://www.credly.com/users/CharlesWLudwig/badges)
 <!--END_SECTION:badges-->
 
 <br>
